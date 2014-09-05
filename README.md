@@ -47,7 +47,7 @@ The major message is that it will remain possible to compile normal scala code u
 Usage
 -----
 
-To build and run the tests:
+To build and run the tests, use Java 8 and:
 
 ```
 % sbt test
